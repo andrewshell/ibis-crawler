@@ -1,0 +1,21 @@
+{
+  "name": "ibis-crawler",
+  "version": "0.1.0",
+  "description": "Script to crawl ibis.makethingsmakesense.com and export as LogSeq graph",
+  "main": "crawl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-abs:andrewshell/ibis-crawler.git"
+  },
+  "author": "Andrew Shell <andrew@andrewshell.org>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "jsdom": "^19.0.0",
+    "node-fetch": "^2.6.6",
+    "uuid": "^8.3.2"
+  }
+}
