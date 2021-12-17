@@ -64,6 +64,7 @@
 			- ((c34602e7-f1f2-4a22-ae15-4c7a9d231c9a))
 	- Use a Krzywinski Circos Plot.
 	  id:: b4870889-2df0-4192-930b-4bf08595fdb1
+	  collapsed:: true
 		- #ibis:supported-by
 			- ((d7789282-96d7-4120-b019-a2a43b9da6a6))
 			- ((15edd16c-b7d7-492b-b8f6-5f35bc4ac2e2))
