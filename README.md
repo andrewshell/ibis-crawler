@@ -12,3 +12,4 @@ Down the road, either as a LogSeq plugin or as a new standalone app, the outline
 - [The Symbol Management Problem](https://doriantaylor.com/the-symbol-management-problem)
 - [The IBIS (bis) Vocabulary](https://privatealpha.com/ontology/ibis/1#)
 - [App::IBIS](https://ibis.makethingsmakesense.com/)
+- [LogSeq](https://logseq.com/)
